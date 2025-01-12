@@ -34,9 +34,9 @@ a:active {
 }
 
 .top {
+	font-size: 2vw;
 	background: #8e00ad;
     color: white;
-    margin-bottom: 10px;
     padding-left: 10px;
     padding-right: 10px;
 }
