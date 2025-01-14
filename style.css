@@ -58,6 +58,11 @@ a:active {
 	text-align: right;
 }
 
+.top a {
+  width: auto;
+  height: auto;
+}
+
 .header {
     padding: 3vw;
     background: #00aeff;
