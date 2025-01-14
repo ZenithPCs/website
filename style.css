@@ -59,6 +59,7 @@ a:active {
 }
 
 .top a {
+  display: inline-block;
   width: auto;
   height: auto;
 }
